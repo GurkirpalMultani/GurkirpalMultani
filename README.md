@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GurkirpalMultani
 - 👀 I’m interested in creating large projects 
-- 🌱 I’m currently learning c++, c, java
+- 🌱 I have mastered c++, c, java, go and javascript and full understanding of lua language mainly used in fivem servers.
 
 
 <!---
